@@ -1,4 +1,4 @@
-package pl.sdacademy.streams;
+﻿package pl.sdacademy.streams;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -6,6 +6,8 @@ import java.util.stream.Collectors;
 
 public class Main {
     public static void main(String[] args) {
+	// komentarz
+	int abcde = 5;
         List<String> stringList = new ArrayList<>();
         stringList.add("abcd");
         stringList.add("rerg");
