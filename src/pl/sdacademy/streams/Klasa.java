@@ -10,7 +10,7 @@ public class Klasa {
         this.a = a;
     }
 
-    public int wezA() {
+    public int wezpobierzA() {
         return a;
     }
 
